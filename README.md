@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Blanc</h1>
 <h3 align="center">A passionate junior software developer</h3>
 
-- 🌱 I’m currently learning **Advance Data Structures and Algorithms**
+- 🌱 I’m currently learning **Advanced Data Structures and Algorithms**
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
