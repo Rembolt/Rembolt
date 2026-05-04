@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithms**
 
-- 🤝 I’m looking for help with **Open Source Projects**
+- 🤝 I’m looking to help with **Open Source Projects**
 
 - 💬 Ask me about **Vulkan**
 
